@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://comerporansiedad.com/index.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://comerporansiedad.com/articulos.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://comerporansiedad.com/sobre-nosotros.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://comerporansiedad.com/contacto.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://comerporansiedad.com/aviso-legal.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://comerporansiedad.com/privacidad.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://comerporansiedad.com/cookies.html</loc><lastmod>2026-08-04</lastmod></url>
+
+  <url>
+    <loc>https://comerporansiedad.com/</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+
+  <url>
+    <loc>https://comerporansiedad.com/articulos.html</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+
+  <url>
+    <loc>https://comerporansiedad.com/sobre-nosotros.html</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+
+  <url>
+    <loc>https://comerporansiedad.com/contacto.html</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+
+  <url>
+    <loc>https://comerporansiedad.com/aviso-legal.html</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+
+  <url>
+    <loc>https://comerporansiedad.com/privacidad.html</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+
+  <url>
+    <loc>https://comerporansiedad.com/cookies.html</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+
   <url><loc>https://comerporansiedad.com/articulo-01.html</loc><lastmod>2026-08-04</lastmod></url>
   <url><loc>https://comerporansiedad.com/articulo-02.html</loc><lastmod>2026-08-04</lastmod></url>
   <url><loc>https://comerporansiedad.com/articulo-03.html</loc><lastmod>2026-08-04</lastmod></url>
@@ -32,6 +61,5 @@
   <url><loc>https://comerporansiedad.com/articulo-23.html</loc><lastmod>2026-08-04</lastmod></url>
   <url><loc>https://comerporansiedad.com/articulo-24.html</loc><lastmod>2026-08-04</lastmod></url>
   <url><loc>https://comerporansiedad.com/articulo-25.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://comerporansiedad.com/politica-privacidad.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://comerporansiedad.com/politica-cookies.html</loc><lastmod>2026-08-04</lastmod></url>
+
 </urlset>
