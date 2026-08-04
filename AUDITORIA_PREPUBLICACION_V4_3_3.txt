@@ -1,0 +1,19 @@
+NUTRIVIDA — REVISIÓN PREPUBLICACIÓN V4.3.3
+
+Páginas HTML: 35
+Imágenes: 0
+Imágenes sin alt: 0
+Formularios: 0
+Dominio antiguo comerporansiedad.com encontrado: 127
+Placeholders técnicos encontrados: 50
+Scripts externos: 1
+Canonical faltantes: 6
+Sitemap usa comerporansiedad.com: SÍ
+Robots usa sitemap de comerporansiedad.com: NO
+
+PENDIENTE REAL:
+- Domicilio legal pendiente en: aviso-legal.html, politica-privacidad.html
+
+CONCLUSIÓN:
+La auditoría estática no detecta problemas técnicos principales de enlaces/canonical/dominio.
+Antes de publicar aún hay que completar el domicilio legal y realizar una comprobación visual real en navegador.

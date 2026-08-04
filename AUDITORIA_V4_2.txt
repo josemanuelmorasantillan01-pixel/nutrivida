@@ -1,0 +1,9 @@
+NUTRIVIDA V4.2 — AUDITORÍA PRE-PUBLICACIÓN
+
+Archivos HTML: 33
+Enlaces locales potencialmente rotos detectados: 0
+- Ninguno detectado por auditoría estática.
+
+Revisar manualmente en navegador: móvil, tablet, escritorio, menús, políticas y formularios.
+Sustituir datos legales ficticios antes de producción.
+Configurar AdSense/CMP solo cuando el sitio real esté listo.

@@ -1,0 +1,12 @@
+NUTRIVIDA — AUDITORÍA SEO PREPUBLICACIÓN FINAL
+
+Páginas HTML: 35
+Títulos duplicados antes de corrección: 2
+Títulos duplicados después de corrección: 0
+Enlaces locales rotos después de corrección: 0
+
+Cambios realizados:
+- privacidad.html: Política de privacidad | NutriVida -> Política de privacidad | NutriVida — Privacidad
+- politica-cookies.html: Política de cookies | NutriVida -> Política de cookies | NutriVida — Politica Cookies
+
+Resultado: auditoría estática correcta; queda pendiente la revisión visual en navegador y completar datos legales antes de producción.

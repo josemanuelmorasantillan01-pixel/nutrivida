@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const input=document.querySelector("#search");if(!input)return;const cards=[...document.querySelectorAll("[data-title]")];input.addEventListener("input",()=>{const q=input.value.toLowerCase().trim();cards.forEach(c=>c.style.display=c.dataset.title.includes(q)?"":"none")})});

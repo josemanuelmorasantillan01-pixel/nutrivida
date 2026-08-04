@@ -1,0 +1,35 @@
+NUTRIVIDA V4.3 — CONFIGURACIÓN FINAL ANTES DE PRODUCCIÓN
+
+1) DOMINIO
+- Se ha usado comerporansiedad.com como dominio de ejemplo coherente en canonical/sitemap.
+- Si el dominio real es otro, sustituirlo antes de publicar.
+
+2) DATOS LEGALES
+- Revisar aviso legal, privacidad y cookies con los datos reales del responsable.
+- No publicar datos de ejemplo.
+
+3) CONTACTO
+- El email de ejemplo es contacto@comerporansiedad.com.
+- Sustituirlo por una dirección que realmente controles.
+
+4) ADSENSE
+- No insertar un publisher ID inventado.
+- Añadir únicamente el código y la línea ads.txt proporcionados por Google AdSense.
+- Configurar consentimiento/CMP antes de activar publicidad en regiones donde sea necesario.
+
+5) IMÁGENES
+- Antes de producción, comprobar licencia/origen de cada imagen y añadir alt descriptivo cuando corresponda.
+
+6) REVISIÓN
+- Se realizó una auditoría estática de enlaces locales en V4.2 y no se detectaron enlaces locales potencialmente rotos.
+- La revisión visual final debe hacerse en navegador en móvil, tablet y escritorio.
+
+7) SEO
+- Sitemap y canonical apuntan al dominio de ejemplo comerporansiedad.com.
+- En producción deben coincidir exactamente con el dominio real.
+
+Páginas legales creadas en V4.3.1:
+- aviso-legal.html
+- politica-privacidad.html
+- politica-cookies.html
+- Sustituir [COMPLETAR DOMICILIO LEGAL ANTES DE PUBLICAR] antes de producción.

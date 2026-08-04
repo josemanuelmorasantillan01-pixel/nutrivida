@@ -1,0 +1,34 @@
+NUTRIVIDA V4.1 — CHECKLIST ANTES DE SOLICITAR ADSENSE
+
+CONTENIDO
+[ ] Revisar manualmente los 25 artículos.
+[ ] Sustituir cualquier ejemplo o afirmación que necesite personalización.
+[ ] Comprobar que cada artículo mantiene una fuente institucional pertinente.
+[ ] Corregir cualquier errata antes de publicar.
+[ ] Añadir imágenes con derechos de uso claros y texto alternativo descriptivo.
+
+IDENTIDAD Y CONFIANZA
+[ ] Completar titular real y datos legales.
+[ ] Cambiar el email de ejemplo por uno real.
+[ ] Confirmar que "Equipo editorial" describe de forma veraz quién produce el contenido.
+[ ] No inventar títulos profesionales, revisores médicos ni credenciales.
+
+SEO TÉCNICO
+[ ] Sustituir comerporansiedad.com en canonical, sitemap y robots.
+[ ] Comprobar que no hay enlaces rotos.
+[ ] Crear/validar sitemap en Google Search Console.
+[ ] Verificar indexación y cobertura.
+[ ] Comprobar versión móvil.
+[ ] Comprobar títulos y meta descriptions.
+[ ] Verificar que no existen páginas de prueba indexables.
+
+ADSENSE Y PRIVACIDAD
+[ ] Crear/configurar AdSense.
+[ ] Añadir el código oficial de Google cuando corresponda.
+[ ] Completar ads.txt con la línea exacta proporcionada por AdSense.
+[ ] Configurar la CMP/consentimiento exigida por Google para las regiones aplicables.
+[ ] Actualizar privacidad y cookies para reflejar los servicios realmente activos.
+[ ] No activar anuncios antes de tener la configuración de consentimiento lista.
+
+IMPORTANTE
+Google no publica un número mínimo de artículos o palabras que garantice la aprobación. La revisión depende del cumplimiento de políticas y de la calidad/valor del sitio. No hay garantía de aprobación.

@@ -1,0 +1,55 @@
+NUTRIVIDA — AUDITORÍA PREPUBLICACIÓN
+Fecha: 4 de agosto de 2026
+
+Páginas HTML: 35
+Artículos: 25
+Páginas legales presentes: 3/3
+Enlaces internos analizados: 577
+Enlaces locales rotos detectados: 0
+Títulos duplicados: 2
+Meta descriptions duplicadas: 0
+Formularios HTML detectados: 0
+Iframes detectados: 0
+Scripts externos detectados: 1
+Referencias directas a AdSense detectadas: 0
+
+RESULTADO:
+La auditoría estática no sustituye una prueba visual en navegador.
+
+PENDIENTES ANTES DE PUBLICAR:
+- Completar el domicilio del responsable en aviso-legal.html.
+- Comprobar que contacto@comerporansiedad.com existe y se puede recibir.
+- Verificar imágenes, licencias y textos alternativos.
+- Revisar manualmente móvil/tablet/escritorio.
+- Confirmar que sitemap.xml y canonical usan el dominio definitivo.
+- No añadir AdSense hasta tener configurado el consentimiento correspondiente.
+
+HALLAZGOS:
+- articulo-01.html: contiene dominio antiguo comerporansiedad.com
+- articulo-02.html: contiene dominio antiguo comerporansiedad.com
+- articulo-03.html: contiene dominio antiguo comerporansiedad.com
+- articulo-04.html: contiene dominio antiguo comerporansiedad.com
+- articulo-05.html: contiene dominio antiguo comerporansiedad.com
+- articulo-06.html: contiene dominio antiguo comerporansiedad.com
+- articulo-07.html: contiene dominio antiguo comerporansiedad.com
+- articulo-08.html: contiene dominio antiguo comerporansiedad.com
+- articulo-09.html: contiene dominio antiguo comerporansiedad.com
+- articulo-10.html: contiene dominio antiguo comerporansiedad.com
+- articulo-11.html: contiene dominio antiguo comerporansiedad.com
+- articulo-12.html: contiene dominio antiguo comerporansiedad.com
+- articulo-13.html: contiene dominio antiguo comerporansiedad.com
+- articulo-14.html: contiene dominio antiguo comerporansiedad.com
+- articulo-15.html: contiene dominio antiguo comerporansiedad.com
+- articulo-16.html: contiene dominio antiguo comerporansiedad.com
+- articulo-17.html: contiene dominio antiguo comerporansiedad.com
+- articulo-18.html: contiene dominio antiguo comerporansiedad.com
+- articulo-19.html: contiene dominio antiguo comerporansiedad.com
+- articulo-20.html: contiene dominio antiguo comerporansiedad.com
+- articulo-21.html: contiene dominio antiguo comerporansiedad.com
+- articulo-22.html: contiene dominio antiguo comerporansiedad.com
+- articulo-23.html: contiene dominio antiguo comerporansiedad.com
+- articulo-24.html: contiene dominio antiguo comerporansiedad.com
+- articulo-25.html: contiene dominio antiguo comerporansiedad.com
+- contacto.html: contiene dominio antiguo comerporansiedad.com
+Títulos duplicados: Política de cookies | NutriVida, Política de privacidad | NutriVida
+Posibles placeholders: [('articulo-01.html', 'PLACEHOLDER'), ('articulo-02.html', 'PLACEHOLDER'), ('articulo-03.html', 'PLACEHOLDER'), ('articulo-04.html', 'TODO'), ('articulo-04.html', 'PLACEHOLDER'), ('articulo-05.html', 'TODO'), ('articulo-05.html', 'PLACEHOLDER'), ('articulo-06.html', 'PLACEHOLDER'), ('articulo-07.html', 'PLACEHOLDER'), ('articulo-08.html', 'PLACEHOLDER'), ('articulo-09.html', 'PLACEHOLDER'), ('articulo-10.html', 'PLACEHOLDER'), ('articulo-11.html', 'PLACEHOLDER'), ('articulo-12.html', 'PLACEHOLDER'), ('articulo-13.html', 'PLACEHOLDER'), ('articulo-14.html', 'PLACEHOLDER'), ('articulo-15.html', 'PLACEHOLDER'), ('articulo-16.html', 'TODO'), ('articulo-16.html', 'PLACEHOLDER'), ('articulo-17.html', 'PLACEHOLDER'), ('articulo-18.html', 'TODO'), ('articulo-18.html', 'PLACEHOLDER'), ('articulo-19.html', 'PLACEHOLDER'), ('articulo-20.html', 'TODO'), ('articulo-20.html', 'PLACEHOLDER'), ('articulo-21.html', 'PLACEHOLDER'), ('articulo-22.html', 'TODO'), ('articulo-22.html', 'PLACEHOLDER'), ('articulo-23.html', 'PLACEHOLDER'), ('articulo-24.html', 'TODO')]

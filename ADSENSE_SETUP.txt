@@ -1,0 +1,13 @@
+NUTRIVIDA V4 — CONFIGURACIÓN ADSENSE
+
+1. Sustituye comerporansiedad.com en sitemap.xml y robots.txt.
+2. Completa los datos reales de aviso-legal.html, privacidad.html y contacto.html.
+3. Sustituye contacto@tudominio.com.
+4. No actives anuncios hasta tener aprobada la cuenta.
+5. Al activar AdSense, configura desde AdSense > Privacidad y mensajes una CMP/mensaje de normativa europea. Google indica que para anuncios personalizados en EEE, Reino Unido y Suiza debe utilizarse una CMP certificada integrada con IAB TCF.
+6. Añade en ads.txt la línea exacta que Google te proporcione.
+7. Inserta el código de AdSense que Google te entregue; no inventes IDs.
+8. Revisa que las políticas describan los servicios que realmente utilizas.
+9. Antes de solicitar revisión, verifica enlaces, sitemap, versión móvil, contenido y datos legales.
+
+Esta plantilla no constituye asesoramiento jurídico.

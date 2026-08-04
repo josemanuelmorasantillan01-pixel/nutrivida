@@ -1,0 +1,13 @@
+NUTRIVIDA V4.3 — AUDITORÍA ESTÁTICA FINAL
+
+HTML detectados: 33
+Enlaces locales potencialmente rotos: 0
+- Ninguno detectado.
+
+Comprobaciones manuales pendientes antes de producción:
+- Sustituir dominio si comerporansiedad.com no es el dominio definitivo.
+- Completar datos legales reales.
+- Revisar email real.
+- Comprobar imágenes/licencias/alt.
+- Configurar AdSense y consentimiento cuando corresponda.
+- Probar en móvil, tablet y escritorio.

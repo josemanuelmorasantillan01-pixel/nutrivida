@@ -1,0 +1,13 @@
+NUTRIVIDA V4.3.4 — LIMPIEZA TÉCNICA
+Referencias antiguas nutrivida.com eliminadas: 193
+Archivos actualizados: 34
+Referencias antiguas restantes: 0
+Canonicals faltantes: 0
+Enlaces locales rotos: 0
+robots.txt apunta al sitemap definitivo: SÍ
+
+Pendiente antes de producción:
+- Completar domicilio legal en aviso-legal.html y politica-privacidad.html.
+- Comprobar email de contacto.
+- Revisar visualmente la web en navegador.
+- Configurar consentimiento/AdSense únicamente cuando corresponda.
